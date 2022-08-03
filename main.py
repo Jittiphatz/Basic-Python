@@ -1,0 +1,30 @@
+#first Program!
+#you can do it!!
+print ("Hello Python") #print = การแแสดงผล
+print ("My name is Jittiphat Somsai")
+print ("My nickname is Batman")
+print ("My birthday is 30 September 2008")
+print ("Age : 14 Y")
+print ("height : 160")
+print ("Weight : 65")
+print ("Studying in grade 2")
+print ("Study at Boonwattana School")
+num = 4
+print ("num=",num)
+print ("Favorite color : Green")
+print ("Preferred language : Node.js , HTML5")
+print ("Version Thai")
+print ("สวัสดี Python")
+print ("ชื่อ : ด.ช.จิตติพัฒน์ ส้มสาย")
+print ("ชื่อเล่น : แบทแมน")
+print ("อายุ : 14")
+print ("วันเกิด : 30 กันยายน พ.ศ. 2551")
+print ("ส่วนสูง : 160")
+print ("น้ำหนัก : 65")
+print ("กำลังศึกษาชั้นมัธยมศึกษาปีที่ 2")
+print ("ศึกษาในโรงเรียนบุญวัฒนา")
+num = 4
+print ("num=",num)
+print ("สีที่ชอบ : สีเขียว")
+print ("ภาษาโค้ดที่ถนัด : Nodejs , HTML5")
+print ("ข้อมูลการติดต่อ : Facebook : Cxllme BatMaew \n Github : MANNEZ.js#4966 | Discord : MANNEZ.js#4966")
